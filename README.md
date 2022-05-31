@@ -16,6 +16,18 @@ Preview:<br>
 
 - - - -
 
+## Greytones
+A greyish theme built around the wallpaper/chat background.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Greytones.json
+```
+Preview:<br>
+![](/.assets/images/greytones.png)
+
+- - - -
+
 ## Cappuccino
 A cappuccino colors inspired discord theme for enmity.<br>
 <br>
