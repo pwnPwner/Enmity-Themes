@@ -1,0 +1,62 @@
+{
+	"name": "Cappuccino",
+	"version": "1.0",
+	"description": "A cappuccino colors inspired discord theme for enmity.",
+	"authors": [
+		{
+			"name": "pwn",
+			"id": "892087916967362560"
+		}
+	],
+	"background": {
+		"blur": 1,
+		"url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/.assets/bg/cappuccinoBG.png",
+		"alpha": 1
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#7D6E65", "#7D6E65"],
+		"BACKGROUND_PRIMARY": ["#7D6E65", "#7D6E65"],
+		"BACKGROUND_SECONDARY": ["#DAC09E", "#DAC09E"],
+		"BACKGROUND_SECONDARY_ALT": ["#3C3C43", "#3C3C43"],
+		"BACKGROUND_TERTIARY": ["#B29D81", "#B29D81"],
+		"BACKGROUND_ACCENT": ["#787880", "#787880"],
+		"BACKGROUND_FLOATING": ["#9C8A74", "#9C8A74"],
+		"BACKGROUND_MENTIONED": ["#F2CDCD", "#F2CDCD"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#363742", "#363742"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#D4B49C", "#D4B49C"],
+		"BACKGROUND_MODIFIER_HOVER": ["#767680", "#767680"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#242429", "#242429"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#FFF8EF", "#FFF8EF"],
+		"BACKGROUND_NESTED_FLOATING": ["#363742", "#363742"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#B8C7BF", "#B8C7BF"],
+		"CHANNELS_DEFAULT": ["#FFE262", "#FFE262"],
+		"CHANNEL_ICON": ["#F28FAD", "#F28FAD"],
+		"TEXTBOX_MARKDOWN_SYNTAX": ["#394E62", "#394E62"],
+		"TEXT_NORMAL": ["#CEC9C2", "#CEC9C2"],
+		"TEXT_MUTED": ["#31323B", "#31323B"],
+		"INTERACTIVE_ACTIVE": ["#8A4F57", "#8A4F57"],
+		"INTERACTIVE_NORMAL": ["#E6E0D8", "#E6E0D8"],
+		"INTERACTIVE_MUTED": ["#8A4F57", "#8A4F57"],
+		"HEADER_PRIMARY": ["#8A4F57", "#8A4F57"],
+		"HEADER_SECONDARY": ["#8A4F57", "#8A4F57"],
+		"TEXT_LINK": ["#B1B1B8", "#B1B1B8"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#8E8E93",
+		"PRIMARY_DARK_100": "#6D6D72",
+		"PRIMARY_DARK_200": "#D4B49C",
+		"PRIMARY_DARK_300": "#EFDCC2",
+		"PRIMARY_DARK_360": "#8A4F57",
+		"PRIMARY_DARK_400": "#9C8A74",
+		"PRIMARY_DARK_500": "#7D6E65",
+		"PRIMARY_DARK_600": "#7D6E65",
+		"PRIMARY_DARK_630": "#EDD7BA",
+		"PRIMARY_DARK_700": "#DAC09E",
+		"PRIMARY_DARK_800": "#B29D81",
+		"PRIMARY_DARK_900": "#74A480",
+		"BRAND_NEW": "#FFE262"
+	},
+	"unsafe_colors":{
+		"CHAT_GREY": "#7D6E65"
+	}
+}
