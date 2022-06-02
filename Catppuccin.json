@@ -1,6 +1,6 @@
 {
 	"name": "Catppuccin",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "A catppuccin color palette inspired discord theme for enmity.",
 	"authors": [
 		{
@@ -9,9 +9,9 @@
 		}
 	],
 	"background": {
-		"blur": 0,
+		"blur": 20,
 		"url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/.assets/bg/catppuccinBG.png",
-		"alpha": 1
+		"alpha": 0.9
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#161320", "#161320"],
