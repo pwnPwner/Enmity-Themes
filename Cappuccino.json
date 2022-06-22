@@ -2,7 +2,8 @@
 	"name": "Cappuccino",
 	"version": "1.0",
 	"description": "A cappuccino colors inspired discord theme for enmity.",
-	"authors": [
+	"color": "#7D6E65",
+        "authors": [
 		{
 			"name": "pwn",
 			"id": "892087916967362560"
