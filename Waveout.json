@@ -1,8 +1,8 @@
 {
 	"name": "Waveout",
-	"version": "1.1",
+	"version": "1.2",
 	"description": "From bright to dark - A wavy discord theme for enmity.",
-	"color": "2F3342",
+	"color": "#939DBD",
         "authors": [
 		{
 			"name": "pwn",
@@ -19,9 +19,9 @@
 		"BACKGROUND_PRIMARY": ["#4D5681", "#4D5681"],
 		"BACKGROUND_SECONDARY": ["#616EAB", "#616EAB"],
 		"BACKGROUND_SECONDARY_ALT": ["#0D0E0E", "#0D0E0E"],
-		"BACKGROUND_TERTIARY": ["#C7CBDB", "#C7CBDB"],
+		"BACKGROUND_TERTIARY": ["#939DBD", "#939DBD"],
 		"BACKGROUND_ACCENT": ["#4C516B", "#4C516B"],
-		"BACKGROUND_FLOATING": ["#13141C", "#13141C"],
+		"BACKGROUND_FLOATING": ["#939DBD", "#939DBD"],
 		"BACKGROUND_MENTIONED": ["#939DBD", "#939DBD"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#656769", "#656769"],
 		"BACKGROUND_MOBILE_SECONDARY": ["#5C646A", "#5C646A"],
