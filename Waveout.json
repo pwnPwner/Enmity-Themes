@@ -1,8 +1,9 @@
 {
 	"name": "Waveout",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "From bright to dark - A wavy discord theme for enmity.",
-	"authors": [
+	"color": "2F3342",
+        "authors": [
 		{
 			"name": "pwn",
 			"id": "892087916967362560"
@@ -32,20 +33,20 @@
 		"CHANNELS_DEFAULT": ["#4C516B", "#4C516B"],
 		"CHANNEL_ICON": ["#13141C", "#13141C"],
 		"TEXTBOX_MARKDOWN_SYNTAX": ["#939DBD", "#939DBD"],
-		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
+		"TEXT_NORMAL": ["#C7CBDB", "#C7CBDB"],
 		"TEXT_MUTED": ["#5C646A", "#5C646A"],
 		"INTERACTIVE_ACTIVE": ["#2F3342", "#2F3342"],
 		"INTERACTIVE_NORMAL": ["#4D5681", "#4D5681"],
 		"INTERACTIVE_MUTED": ["#616EAB", "#616EAB"],
 		"HEADER_PRIMARY": ["#0D0E0E", "#0D0E0E"],
 		"HEADER_SECONDARY": ["#C7CBDB", "#C7CBDB"],
-		"TEXT_LINK": ["#2F3342", "#AEAFB3"]
+		"TEXT_LINK": ["#8D96C2", "#8D96C2"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#4D5681",
 		"PRIMARY_DARK_100": "#4C516B",
 		"PRIMARY_DARK_200": "#656769",
-		"PRIMARY_DARK_300": "#13141C",
+		"PRIMARY_DARK_300": "#C7CBDB",
 		"PRIMARY_DARK_360": "#4C516B",
 		"PRIMARY_DARK_400": "#939DBD",
 		"PRIMARY_DARK_500": "#656769",
@@ -53,7 +54,7 @@
 		"PRIMARY_DARK_630": "#2F3342",
 		"PRIMARY_DARK_700": "#4D5681",
 		"PRIMARY_DARK_800": "#616EAB",
-		"PRIMARY_DARK_900": "#0D0E0E",
+		"PRIMARY_DARK_900": "#C7CBDB",
 		"BRAND_NEW": "#C7CBDB"
 	},
 	"unsafe_colors":{
