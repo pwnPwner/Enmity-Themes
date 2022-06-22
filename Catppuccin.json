@@ -2,7 +2,8 @@
 	"name": "Catppuccin",
 	"version": "1.1",
 	"description": "A catppuccin color palette inspired discord theme for enmity.",
-	"authors": [
+	"color": "#161320",
+        "authors": [
 		{
 			"name": "pwn",
 			"id": "892087916967362560"
