@@ -28,6 +28,18 @@ Preview:<br>
 
 - - - -
 
+## Waveout
+A bright to dark, wavy theme built around the wallpaper/chat background.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json
+```
+Preview:<br>
+![](/.assets/images/waveout.png)
+
+- - - -
+
 ## Cappuccino
 A cappuccino colors inspired discord theme for enmity.<br>
 <br>
