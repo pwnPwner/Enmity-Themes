@@ -2,7 +2,8 @@
 	"name": "Greytones",
 	"version": "1.0",
 	"description": "A greyish discord theme for enmity.",
-	"authors": [
+	"color": "#373A44",
+        "authors": [
 		{
 			"name": "pwn",
 			"id": "892087916967362560"
