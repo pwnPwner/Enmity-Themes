@@ -28,6 +28,18 @@ Preview:<br>
 
 - - - -
 
+## Darktones
+A dark theme built around the wallpaper/chat background.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Darktones.json
+```
+Preview:<br>
+![](/.assets/images/darktones.png)
+
+- - - -
+
 ## Waveout
 A bright to dark, wavy theme built around the wallpaper/chat background.<br>
 <br>
