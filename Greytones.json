@@ -1,6 +1,6 @@
 {
 	"name": "Greytones",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "A greyish discord theme for enmity.",
 	"color": "#373A44",
         "authors": [
@@ -30,7 +30,7 @@
 		"BACKGROUND_MODIFIER_SELECTED": ["#25272E", "#25272E"],
 		"BACKGROUND_NESTED_FLOATING": ["#202227", "#202227"],
 		"BACKGROUND_MODIFIER_ACCENT": ["#1B1C21", "#1B1C21"],
-		"CHANNELS_DEFAULT": ["#15161A", "#15161A"],
+		"CHANNELS_DEFAULT": ["#CFCFCF", "#CFCFCF"],
 		"CHANNEL_ICON": ["#101113", "#101113"],
 		"TEXTBOX_MARKDOWN_SYNTAX": ["#0B0B0D", "#0B0B0D"],
 		"TEXT_NORMAL": ["#EBEBEC", "#EBEBEC"],
