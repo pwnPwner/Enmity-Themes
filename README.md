@@ -52,6 +52,18 @@ Preview:<br>
 
 - - - -
 
+## Abstract
+A abstract theme built around the wallpaper/chat background.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Abstract.json
+```
+Preview:<br>
+![](/.assets/images/abstract.png)
+
+- - - -
+
 ## Cappuccino
 A cappuccino colors inspired discord theme for enmity.<br>
 <br>
