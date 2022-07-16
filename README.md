@@ -40,6 +40,18 @@ Preview:<br>
 
 - - - -
 
+## Minthill
+A mint colored theme built around the wallpaper/chat background.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Minthill.json
+```
+Preview:<br>
+![](/.assets/images/minthill.png)
+
+- - - -
+
 ## Waveout
 A bright to dark, wavy theme built around the wallpaper/chat background.<br>
 <br>
