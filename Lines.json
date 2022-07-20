@@ -1,6 +1,6 @@
 {
 	"name": "Lines",
-	"version": "1.1",
+	"version": "1.2",
 	"description": "A crazy color palette made to an discord theme for enmity.",
 	"color": "#212944",
         "authors": [
@@ -36,7 +36,7 @@
 		"TEXT_NORMAL": ["#EBEBEB", "#EBEBEB"],
 		"TEXT_MUTED": ["#ADB3C7", "#ADB3C7"],
 		"INTERACTIVE_ACTIVE": ["#6E6C7E", "#6E6C7E"],
-		"INTERACTIVE_NORMAL": ["#070C1A", "#070C1A"],
+		"INTERACTIVE_NORMAL": ["#6E6C7E", "#6E6C7E"],
 		"INTERACTIVE_MUTED": ["#7E909C", "#7E909C"],
 		"HEADER_PRIMARY": ["#70739C", "#70739C"],
 		"HEADER_SECONDARY": ["#EBEBEB", "#EBEBEB"],
