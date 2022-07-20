@@ -28,6 +28,18 @@ Preview:<br>
 
 - - - -
 
+## Lines
+A crazy color palette made to an discord theme for enmity.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Lines.json
+```
+Preview:<br>
+![](/.assets/images/lines.png)
+
+- - - -
+
 ## Darktones
 A dark theme built around the wallpaper/chat background.<br>
 <br>
