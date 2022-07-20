@@ -1,8 +1,8 @@
 {
 	"name": "Lines",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "A crazy color palette made to an discord theme for enmity.",
-	"color": "#212944",
+	"color": "#ADB3C7",
         "authors": [
 		{
 			"name": "pwn",
@@ -16,8 +16,8 @@
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#070C1A", "#070C1A"],
-		"BACKGROUND_PRIMARY": ["#070C1A", "#070C1A"],
-		"BACKGROUND_SECONDARY": ["#7E909C", "#7E909C"],
+		"BACKGROUND_PRIMARY": ["#212944", "#212944"],
+		"BACKGROUND_SECONDARY": ["#70739C", "#70739C"],
 		"BACKGROUND_SECONDARY_ALT": ["#212944", "#212944"],
 		"BACKGROUND_TERTIARY": ["#212944", "#212944"],
 		"BACKGROUND_ACCENT": ["#3D4D50", "#3D4D50"],
@@ -35,7 +35,7 @@
 		"TEXTBOX_MARKDOWN_SYNTAX": ["#2D3232", "#2D3232"],
 		"TEXT_NORMAL": ["#EBEBEB", "#EBEBEB"],
 		"TEXT_MUTED": ["#ADB3C7", "#ADB3C7"],
-		"INTERACTIVE_ACTIVE": ["#4E596F", "#4E596F"],
+		"INTERACTIVE_ACTIVE": ["#6E6C7E", "#6E6C7E"],
 		"INTERACTIVE_NORMAL": ["#070C1A", "#070C1A"],
 		"INTERACTIVE_MUTED": ["#7E909C", "#7E909C"],
 		"HEADER_PRIMARY": ["#70739C", "#70739C"],
@@ -54,7 +54,7 @@
 		"PRIMARY_DARK_630": "#7E909C",
 		"PRIMARY_DARK_700": "#70739C",
 		"PRIMARY_DARK_800": "#212944",
-		"PRIMARY_DARK_900": "#3D4D50",
+		"PRIMARY_DARK_900": "#4D5252",
 		"BRAND_NEW": "#4D5252"
 	},
 	"unsafe_colors":{
